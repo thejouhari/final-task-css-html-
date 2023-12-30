@@ -82,7 +82,7 @@ nav ul li {
 }
 
 nav ul li:hover{
-    transform: scale(1.4);
+    transform: scale(1.1);
     font-weight: 500;
     color:#FF9500;
 }
@@ -467,22 +467,22 @@ nav{
  
 .bar .container{
     display: flex;
-    gap:50px;
+    gap:40px;
     border-radius: 12px;
     border: 1px solid var(--White-95, #F1F1F3);
     background: var(--White-99, #FCFCFD);
     overflow-x: auto;
     overflow-y: hidden;
-    padding:0px 20px;
+    padding:0px 15px;
 }
  .bar .container img{
     flex:1;
     transition: transform 0.2s;
-    padding:30px;
+    padding:25px;
  }
 
  .bar .container img:hover{
-    transform: scale(1.4);
+    transform: scale(1.2);
  }
 
 
