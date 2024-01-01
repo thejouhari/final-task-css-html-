@@ -54,12 +54,12 @@ header .row{
     transform: rotate(360deg);
 }
 
-.logo-icon img{
+.Logo-icon img{
     width:80px;
     transition: transform 2s 0s;
 }
 
-.logo-icon img:hover{
+.Logo-icon img:hover{
     transform: rotate(360deg);
 }
 
